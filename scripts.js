@@ -70,5 +70,3 @@ document.addEventListener("DOMContentLoaded", function () {
         squareAdder();
     })
 })
-
-//body.removeChild(square);
